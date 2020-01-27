@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         XDChat sound
 // @namespace    https://github.com/alyssacohen
-// @version      0.1.1
+// @version      0.1.2
 // @description  Restoring chat sound on new message
 // @author       Alyssa Cohen
 // @match        https://www.xdress.it/xdforum/mchat.php*
